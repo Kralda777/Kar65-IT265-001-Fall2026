@@ -86,4 +86,4 @@ Odd target Studio will focus on Indie action, survival, strategy games. It will 
 
 ## Additional Notes
 
-Odd Target Studio is inspired by my interest in zombies, horror, Call Of Duty, strategic games. I want the game to be intense but simple. Will be using actions such as cards building, exploration and player choices.
+Odd Target Studio is inspired by my interest in zombies, horror, Call Of Duty, strategic games. I want the game to be intense but simple. Will be using actions such as cards, building, exploration and player choices.
