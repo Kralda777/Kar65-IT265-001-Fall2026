@@ -12,7 +12,7 @@
 - **OddTargetStudio**:
 - zombie, card, odd games
 - **Instagram and facebook**:
-- **OddTargetStudio**:
+- **@OddTargetStudio**:
 
 ---
 
@@ -81,9 +81,10 @@ Odd target Studio will focus on Indie action, survival, strategy games. It will 
 
 -- **Sketches/Logo**:
 ![Odd Target Studio Logo] (./OddTargetStudioLogo.jpg)
+<img width="3315" height="2982" alt="OddTargetStudioLogo" src="https://github.com/user-attachments/assets/5974d664-e3ea-42a1-a2dd-c91050bd9ca4" />
+
 ---
 
 ## Additional Notes
 
 Odd Target Studio is inspired by my interest in zombies, horror, Call Of Duty, strategic games. I want the game to be intense but simple. Will be using actions such as cards building, exploration and player choices.
-> [Free space for brainstorming!]
