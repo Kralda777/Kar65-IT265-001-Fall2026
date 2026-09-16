@@ -81,7 +81,7 @@ Odd target Studio will focus on Indie action, survival, strategy games. It will 
 
 -- **Sketches/Logo**:
 ![Odd Target Studio Logo] (./OddTargetStudioLogo.jpg)
-<img width="15" height="15" alt="OddTargetStudioLogo" src="https://github.com/user-attachments/assets/5974d664-e3ea-42a1-a2dd-c91050bd9ca4" />
+<img width="10" height="10" alt="OddTargetStudioLogo" src="https://github.com/user-attachments/assets/5974d664-e3ea-42a1-a2dd-c91050bd9ca4" />
 
 ---
 
