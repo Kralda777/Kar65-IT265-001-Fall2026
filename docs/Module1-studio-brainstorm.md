@@ -55,7 +55,6 @@ Odd target Studio will focus on Indie action, survival, strategy games. It will 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 - Odd Target Studio will combine action and survival games with strategy.  They will be able to make decisions that determine how they will fight, build, and collect cards..
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
 - Story telling would be a zombie apocalyptic, survival games. Their choices would effect their experience and give them the opportunity to survive or not.
 ---
 
