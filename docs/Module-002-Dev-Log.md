@@ -78,3 +78,42 @@
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 > Create my physical prototype. Finalize what colors and what abilities the players will have.  Start developing.
+
+
+<!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+## Name: Karen Ralda
+### Module: 002 
+
+<!-- Repeat the below as needed-->
+### Date: 09/28/2026
+
+#### Goals for this Module
+<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
+-->
+- [x] Plan how to create my physical prototype.
+- [x] Finalize the colors and abilities for the player.
+- [ ] Start creating my physical prototype.
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  > I began working on my plan for my physical prototype.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  > My biggest challenge was deciding how to create a first person racing game into a prototype.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  > I decided on focusing more on representing the mechanics of the game instead of trying to make it as accurate as the digital form.
+#### Learnings
+- Key insights, techniques, or concepts explored.
+> I learned that it will be difficult to make the physical prototype as accurate as the digital but just overall showing the mechanics and the idea is the goal.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+> Prototype racetrack, car pieces, different colored pieces. Map in in the corner. 2 players. 
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+> Begin creating the physical prototype, test the mechanics.
