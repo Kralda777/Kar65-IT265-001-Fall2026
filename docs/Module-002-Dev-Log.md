@@ -19,7 +19,7 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > I brainstormed different game concepts based on the games and mechanics that I enjoy. I explored a zombie survival game with strategy implemented, a racing game with color strategy, and a card-based game. I also was brainstorming how to bring these ideas into both physical and digital prototypes.
+  > I brainstormed different game concepts based on the games and mechanics that I enjoy. I explored a zombie survival game with strategy implemented, a racing game with color strategy. I also was brainstorming how to bring these ideas into both physical and digital prototypes.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   > My biggest challenge was creating a game that is unique.
@@ -94,26 +94,31 @@
 - [ ] Goal 3
 -->
 - [x] Plan how to create my physical prototype.
-- [x] Finalize the colors and abilities for the player.
+- [x] Figure out how the physical version will move.
+- [x] Finalize the colors and abilities of each color.
+- [x] Figure out how to connect my physical prototype to my digital game.
 - [ ] Start creating my physical prototype.
+      
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   > I began working on my plan for my physical prototype.
+  > Decided how the players will move, and what will move them. Decided how they will be able to choose their color. When 3 of the same color are chosen the user will be able to use that ability.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  > My biggest challenge was deciding how to create a first person racing game into a prototype.
+  > My biggest challenge was deciding how to create a first-person racing game into a prototype. Also, how to change that in the prototype while keeping the concept of the game.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > I decided on focusing more on representing the mechanics of the game instead of trying to make it as accurate as the digital form.
+  > I decided on focusing more on representing movement in the game instead of trying to make it as accurate to the digital form. In the physical I can use dice. The players can race at the same time.
 #### Learnings
 - Key insights, techniques, or concepts explored.
 > I learned that it will be difficult to make the physical prototype as accurate as the digital but just overall showing the mechanics and the idea is the goal.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-> Prototype racetrack, car pieces, different colored pieces. Map in in the corner. 2 players. 
+> Prototype racetrack, car pieces, different colored pieces. Map in in the corner. 2 players. I want players to roll at the same time instead of taking turns. It will make the game competitive.
+> I want different routes, water, and different hazards. 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-> Begin creating the physical prototype, test the mechanics.
+> Begin creating the physical prototype. 
