@@ -68,11 +68,12 @@ I have an overall idea on how I want everything to work, I need to first test to
 
 Describe the nested activities in words or a simple diagram. The table is a starting point; timings are tentative, not measurements unless tested.
 
+
 | Layer | Player activity or outcome | Tentative timing |
 | --- | --- | --- |
-| Immediate decision | Drive, Decide which route or color to go for |  Avoid obstacles | Collect Colors |  Larger Objective | Collect 3 of the same colors | Decide to choose an abiltiy |
-| Avoid obstacles | Get Ahead | Minutes pass driving  | Session  | Complete the race, Player wins 1st place | | Estimated 7 minutes |
-
+| Immediate decision | Decide which route or color to grab, Avoid obstacles, and timing for use of ability| A few seconds|
+| Larger objective | Collect 3 of the same colors, use abilities to get ahead | Minutes |
+| Session | Complete race, goal is to win 1st place | About 7 minutes |
 
 Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
 
