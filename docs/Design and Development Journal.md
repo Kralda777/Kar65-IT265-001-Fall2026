@@ -6,7 +6,7 @@ This records design reasoning. Keep your weekly GitHub dev log separately.
 
 **Date: 09/28/2026**
 
-**Working game title: RoadRace, RoadRush**
+**Working game title: RoadRace**
 
 **Project stage:**
 Developing and Finalizing Game Concept and Planning physical prototype
@@ -58,9 +58,9 @@ excitment of a race. I decided on the colors and what each color will signify.
 **Direct artifact link or specific observation:**
 [Module 002 Dev Log](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md) 
 
-[Peer Feedback](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module%202%3A%20Peer%20Feedback)
+[Peer Feedback](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module%202%3A%20Peer%20Feedback.md)
 
-**What the evidence confirms
+**What the evidence confirms**
 - I will use my DevLog and also Peer Feedback to show the progess and change of direction of my game concept.
 **What remains uncertain:**
 I have an overall idea on how I want everything to work, I need to first test to confirm all the mechanics work well when it comes to playing the game.
