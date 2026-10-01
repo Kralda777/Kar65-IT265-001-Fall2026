@@ -12,7 +12,7 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
 | Zombie Target | Choose which locations to prioritize and protect from zombies| Horror| unclear loop | Need to figure out the mechanics, zombie take over|
-| RoadWinner | Choose routes, collect 3 of the same color, use advantages during the race | Ready to pitch| Racing concept clear goal to win 1st place.|
+| RoadWinner | Choose routes, collect 3 of the same color, use advantages during the race | Racing| Racing concept clear goal to win 1st place. Ready to pitch.|
 
 **Two or three concepts to pitch:**
 
