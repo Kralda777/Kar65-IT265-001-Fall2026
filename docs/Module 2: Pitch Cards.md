@@ -1,5 +1,9 @@
-# IT265 Module 2: Concept Pitch Cards
+---
+layout: default
+title: "IT265 Module 2: Concept Pitch Cards"
+---
 
+# IT265 Module 2: Concept Pitch Cards
 ## Pitch Card
 
 **Working title:**
