@@ -10,7 +10,7 @@ This records design reasoning. Keep your weekly GitHub dev log separately.
 
 **Date: 09/28/2026**
 
-**Working game title: RoadRace**
+**Working game title: Road Race**
 
 **Project stage:**
 Developing and Finalizing Game Concept and Planning physical prototype
@@ -20,29 +20,29 @@ Developing and Finalizing Game Concept and Planning physical prototype
 ## Concept and Decision
 
 **Current concept and intended experience:**
-RoadRace is a first first person, multi player game. The players will be racing games with the goal to come in 1st place. 
-I would like the game to have the feeling of a racing simulator, arcade like, simple, exciting, fast paced game. 
+RoadRace is a first person, multiplayer game. The players will be racing  with the goal to come in 1st place. 
+I would like the game to have the feeling of a racing simulator, arcade-like, simple, exciting, fast paced game. 
 The player will have the opportunity during their race to collect 3 of the same color. The colors will give the player the opportunity 
 to gain an advantage during the game. The options would be speed boost, fixing their car after expected damage to it during the race, and 
 the opportunity to bump another car. There will be obstacles, such as rivers, roadblocks, and little life like obstacles.
 
-**Design question or decision:**
-Designing question would be for the first prototype. How will the mechanics be potrayed in the physical prototype. What will be changing 
-make the game similiar but just as exciting as the digital game.
+**Designing question or decision:**
+Designing question would be for the first prototype. How will the mechanics be portrayed in the physical prototype. What will be changing 
+make the game similar but just as exciting as the digital game.
 
 **Selected concept and alternatives kept:**
 Selected Concept is the racing game. Alternative kept is zombie game, since I do enjoy zombie movies and wanted to create a game that
 brought the player into a digital world.
 
 **Peer feedback that affected the decision:**
-My peers both mentioned to me that they preferred the racing game over the zombie game which helped me come 
-my final decision and choosing to move foward with the Racing concept.
+My peers both mentioned to me that they preferred the racing game over the zombie game which helped me come to
+my final decision and choosing to move forward with the Racing concept.
 ## Reading Connection
 
 Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
 
 **Section and specific idea:**
-Chapter 1: Mentioned Synthesis. Which is combing ideas and having them interact in a meaningful way that affects the gameplay.
+Chapter 1: Mentioned Synthesis. Which is combining ideas and having them interact in a meaningful way that affects the gameplay.
 
 **Relevance today:**
 Still relevant!
@@ -54,18 +54,17 @@ The connection is me adding mechanics to make the game more unique and fun for t
 ## Progress and Evidence
 
 **What I created, changed, tested, or decided:**
-I decided to move foward with my Racing Concept and developed and finalized the main mechanics of the game.  
+I decided to move forward with my Racing Concept and developed and finalized the main mechanics of the game.  
 I decided on the 3 colors to match for an ability. I decided on how the physical prototype will 
 be played. I decided on the players having to roll the dice at the same time to keep the
-excitment of a race. I decided on the colors and what each color will signify.
+excitement of a race. I decided on the colors and what each color will signify.
 
 **Direct artifact link or specific observation:**
 [Module 002 Dev Log](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md) 
 
-[Peer Feedback](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module%202%3A%20Peer%20Feedback.md)
-
+[Peer Feedback](./Module-2-Peer-Feedback.html)
 **What the evidence confirms**
-- I will use my DevLog and also Peer Feedback to show the progess and change of direction of my game concept.
+- I will use my DevLog and also Peer Feedback to show the progress and change of direction of my game concept.
 **What remains uncertain:**
 I have an overall idea on how I want everything to work, I need to first test to confirm all the mechanics work well when it comes to playing the game.
 ## Rough Gameplay Timing Onion
