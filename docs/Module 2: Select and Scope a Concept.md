@@ -4,9 +4,9 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
-| | | | | |
+| Racing Game| Choose routes, collect colors, decide on timing for use of abilities | Racing with color matching and different abilities to take the lead | Yes. Physical prototype would need a track, car pieces, dice, color pieces. | Track layout |
+| Zombie Game | decide which locations to prioritize and fight off zombies, survive. | Being able to play in zombie mode| Yes. Physical prototype would use a map, locations, zombie and player pieces| Uniqueness. |
+
 
 **Selected concept and reason:**
 I am choosing the racing game because after reviewing the inspiration being COD ZOMBIES my zombie game became too predictable
