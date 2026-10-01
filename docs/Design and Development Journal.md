@@ -20,7 +20,7 @@ Developing and Finalizing Game Concept and Planning physical prototype
 ## Concept and Decision
 
 **Current concept and intended experience:**
-RoadRace is a first person, multiplayer game. The players will be racing  with the goal to come in 1st place. 
+Road Race is a first person, multiplayer game. The players will be racing  with the goal to come in 1st place. 
 I would like the game to have the feeling of a racing simulator, arcade-like, simple, exciting, fast paced game. 
 The player will have the opportunity during their race to collect 3 of the same color. The colors will give the player the opportunity 
 to gain an advantage during the game. The options would be speed boost, fixing their car after expected damage to it during the race, and 
