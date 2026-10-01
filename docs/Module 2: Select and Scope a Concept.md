@@ -1,5 +1,9 @@
-# IT265 Module 2: Select and Scope a Concept
+---
+layout: default
+title: "IT265 Module 2: Select and Scope a Concept"
+---
 
+# IT265 Module 2: Select and Scope a Concept
 Compare the feedback for all your pitches before selecting one. Keep useful alternatives in your journal.
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
