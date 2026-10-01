@@ -44,7 +44,7 @@ Chapter 1: Mentioned Synthesis. Which is combing ideas and having them interact 
 Still relevant!
 **Reason and supporting example:**
 After reading Chapter 1. I read the 4 phases of the creative process. Synthesis relates because I basically combined ideas of the games I enjoy, the games 
-that most enjoy, racing simulators that I enjoy, the game Connect Four. To create a game that I would enjoy to play.
+that most enjoy, racing simulators, the game Connect Four. To create a game that I believe would be fun to play.
 **Connection to a choice or test for my game:**
 The connection is me adding mechanics to make the game more unique and fun for the player. As chapter 1 states Fun is important.
 ## Progress and Evidence
