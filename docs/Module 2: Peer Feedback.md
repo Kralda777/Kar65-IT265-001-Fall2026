@@ -1,5 +1,9 @@
- IT265 Module 2: Peer Feedback 
+---
+layout: default
+title: "IT265 Module 2: Peer Feedback"
+---
 
+# IT265 Module 2: Peer Feedback
 Use one copy for each concept you review. Initials are enough; do not record classmates' contact details. Give feedback on the idea and name a decision the designer can make next. 
 
 
