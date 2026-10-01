@@ -1,5 +1,9 @@
-# IT265 Module 2: Design and Development Journal First Entry
+---
+layout: default
+title: "IT265 Module 2: Design and Development Journal First Entry"
+---
 
+# IT265 Module 2: Design and Development Journal First Entry
 This records design reasoning. Keep your weekly GitHub dev log separately.
 
 ## Entry Details
