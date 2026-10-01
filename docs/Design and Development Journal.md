@@ -60,9 +60,10 @@ be played. I decided on the players having to roll the dice at the same time to 
 excitement of a race. I decided on the colors and what each color will signify.
 
 **Direct artifact link or specific observation:**
-[Module 002 Dev Log](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md) 
 
+[Module 002 Dev Log](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md) 
 [Peer Feedback](./Module-2-Peer-Feedback.html)
+
 **What the evidence confirms**
 - I will use my DevLog and also Peer Feedback to show the progress and change of direction of my game concept.
 **What remains uncertain:**
