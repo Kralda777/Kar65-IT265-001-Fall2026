@@ -1,7 +1,5 @@
 # IT265 Module 2: Concept Pitch Cards
 
-Copy this card for each of your two or three shortlisted concepts. Aim to explain each in about one minute. Use your [idea bank](./01-idea-bank.md) as a starting point.
-
 ## Pitch Card
 
 **Working title:**
