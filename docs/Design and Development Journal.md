@@ -31,7 +31,7 @@ Selected Concept is the racing game. Alternative kept is zombie game, since I do
 brought the player into a digital world.
 
 **Peer feedback that affected the decision:**
-My peers both mentioned to me that they preffered the racing game over the zombie game which helped me come 
+My peers both mentioned to me that they preferred the racing game over the zombie game which helped me come 
 my final decision and choosing to move foward with the Racing concept.
 ## Reading Connection
 
@@ -40,7 +40,7 @@ Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
 **Section and specific idea:**
 Chapter 1: Mentioned Synthesis. Which is combing ideas and having them interact in a meaningful way that affects the gameplay.
 
-**Relevance today:** Still relevant / partly relevant / no longer relevant / uncertain
+**Relevance today:**
 Still relevant!
 **Reason and supporting example:**
 After reading Chapter 1. I read the 4 phases of the creative process. Synthesis relates because I basically combined ideas of the games I enjoy, the games 
