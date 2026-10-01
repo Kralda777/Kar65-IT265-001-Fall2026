@@ -1,5 +1,9 @@
-# IT265 Module 2: One-Page Treatment
+---
+layout: default
+title: "IT265 Module 2: One-Page Treatment"
+---
 
+# IT265 Module 2: One-Page Treatment
 **Working game title: RoadRace**
 
 Write one coherent, one-page-length treatment. Use the four prompts to begin, then combine your answers into natural prose.
