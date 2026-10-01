@@ -56,11 +56,12 @@ be played. I decided on the players having to roll the dice at the same time to 
 excitment of a race. I decided on the colors and what each color will signify.
 
 **Direct artifact link or specific observation:**
-(https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md)  Module 002 Dev Log
-(https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module%202%3A%20Peer%20Feedback
+[Module 002 Dev Log](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module-002-Dev-Log.md) 
 
-**What the evidence confirms) Peer Feedback.
-- I will use my DevLog and also Peer Review to show the progess and change of direction.
+[Peer Feedback](https://github.com/Kralda777/Kar65-IT265-001-Fall2026/blob/main/docs/Module%202%3A%20Peer%20Feedback)
+
+**What the evidence confirms
+- I will use my DevLog and also Peer Feedback to show the progess and change of direction of my game concept.
 **What remains uncertain:**
 I have an overall idea on how I want everything to work, I need to first test to confirm all the mechanics work well when it comes to playing the game.
 ## Rough Gameplay Timing Onion
@@ -69,15 +70,9 @@ Describe the nested activities in words or a simple diagram. The table is a star
 
 | Layer | Player activity or outcome | Tentative timing |
 | --- | --- | --- |
-| Immediate decision | | |
-| Larger objective | | |
-| Session | | |
+| Immediate decision | Drive, Decide which route or color to go for |  Avoid obstacles | Collect Colors |  Larger Objective | Collect 3 of the same colors | Decide to choose an abiltiy |
+| Avoid obstacles | Get Ahead | Minutes pass driving  | Session  | Complete the race, Player wins 1st place | | Estimated 7 minutes |
 
-My Diagram:
-
-| Immediate decision | Drive | Decide which route or color to go for |  Drive | Collect Colors | | Collect 3 of the same colors | Decide to choose an abiltiy |
-| Avoid obstacles | | Get Ahead | | use an ability to bump a car into a wall | | get ahead| | Player wins 1st place | | 7 minutes 
-|
 
 Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
 
