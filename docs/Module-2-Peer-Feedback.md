@@ -16,21 +16,21 @@ In my words, the player repeatedly:
 -The player plays the cashier and there will be cats doing certain activities. The player repeatedly will be cooking and feeding during the game.
  
 One clarifying question: 
--What is the final goal of the game? Was uncertain on the goal of the game, or if it was a conforting no goal game.
+-What is the final goal of the game? Was uncertain on the goal of the game, or if it was a comforting with no specific goal.
 
 Strongest hook or source of appeal: 
 -Cat Lovers, I would be interested in the cats being incorporated in the game.
 
 What one student could prototype first: 
--The phyical cafe and cats and the movement of the cats and mechanics of the overall game.
+-The physical cafe and cats and the movement of the cats and mechanics of the overall game.
 
 Biggest uncertainty or risk to test:  
--The actions that the cats do is a uncertainty.
+-The actions that the cats do is an uncertainty.
 One actionable suggestion: 
 - Give the game a goal. Give the cats the opportunity to destroy an order.
-- A certain number of customer you could dissapoint before the game becomes over.
+- A certain number of customers you could disapoint before the game is over.
 
-Give your notes to the designer. Designers can use the feedback in the selection sheet and journal en 
+Give your notes to the designer. Designers can use the feedback in the selection sheet and journal.
 
  
 
