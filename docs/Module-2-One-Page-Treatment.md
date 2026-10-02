@@ -4,7 +4,7 @@ title: "IT265 Module 2: One-Page Treatment"
 ---
 
 # IT265 Module 2: One-Page Treatment
-**Working game title: RoadRace**
+**Working game title: Road Race**
 <!--
 Four-Sentence Core
 Premise: Who is the player, what is the situation, and what problem matters? The player is racing against another car, two player game. The player’s goal is to finish the race first while choosing different routes and collecting colors.
