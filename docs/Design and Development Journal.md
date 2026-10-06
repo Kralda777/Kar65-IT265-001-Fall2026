@@ -87,6 +87,7 @@ Begin my physical prototype. Have people test my game and get feedback.
 **Uncertainty it will address:**
 I want it to address the sense of the game, the ability to play, and make sure it gets everyone excited for the digital version.
 
+Class notes 10/06/2026
 
 Three colors palette
 In your notes make a three-row table for important in a familiar game.
@@ -94,4 +95,4 @@ In your notes make a three-row table for important in a familiar game.
 | State | Chosen Color | Padlock Icon 
 | --- | --- | --- |
 | Speed | yellow | Double Arrow |
-| Break | Grey |  Pause Signs |
+| Break | Red |  Pause Signs |
