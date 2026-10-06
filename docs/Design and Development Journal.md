@@ -86,3 +86,11 @@ Keep the working model in the journal. The treatment needs only the timing conte
 Begin my physical prototype. Have people test my game and get feedback.
 **Uncertainty it will address:**
 I want it to address the sense of the game, the ability to play, and make sure it gets everyone excited for the digital version.
+
+
+Three colors palette
+In your notes make a three-row table for important in a familiar game.
+
+| State | Chosen Color | Padlock Icon |
+| Speed | yellow | Double Arrow |
+| Break | Grey |  Pause Signs |
