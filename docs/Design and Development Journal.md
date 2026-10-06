@@ -91,6 +91,7 @@ I want it to address the sense of the game, the ability to play, and make sure i
 Three colors palette
 In your notes make a three-row table for important in a familiar game.
 
-| State | Chosen Color | Padlock Icon |
+| State | Chosen Color | Padlock Icon 
+| --- | --- | --- |
 | Speed | yellow | Double Arrow |
 | Break | Grey |  Pause Signs |
