@@ -61,7 +61,7 @@
 - [ ] Goal 3
 -->
 - [x] Continue developing the physical version of Road Race.
-- [ ] Start creating the physical track
+- [ ] Start creating the physical track.
 - [ ] Decide on what obstacles to implement into my physical prototype.
       
 #### Progress
