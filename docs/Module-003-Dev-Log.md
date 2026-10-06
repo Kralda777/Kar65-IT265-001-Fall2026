@@ -3,7 +3,7 @@
 ### Module: 003
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: 10/05/2026
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
@@ -11,19 +11,26 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Example pending goal
-- [x] Example completed goal
-
+- [ ] Complete the Atari game case study and choose me own.
+- [ ] Research an Atari game.
+- [x] Keep developing ideas to improve Road Race.
+- [ ] Continue documenting my progresss through out the week.
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >- Reviewed Module 3 assignments.
+  >- Planned goals for this module.
+  >- Looked over Atari game case study requirements.
+  >- Improving my Goad Race ideas.
+  
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > Choosing an Atari game.
+  
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >- Checking which Atari game is still available.
+  >- Reviewed the assignment instructions on the Atari assignment.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
