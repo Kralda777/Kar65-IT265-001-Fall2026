@@ -17,7 +17,7 @@
 - [ ] Finilize digital game layout
 - [ ] Begin developing the digital version of Road Race
 
-#### Progress
+-#### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   > I worked on my Case Study 2 assignment, where I chose Zuma as the game to analyze.
@@ -29,13 +29,15 @@
   - Detail how you addressed challenges or your thought process.
   > By analyzing Zuma, I was able to understand how simple mechanics, such as matching colored balls and swapping colors, can create meaningful decisions for the players. For Road Race, I decided to explore using dice rolls and a digital board to keep the gameplay similar to my physical protype.
 
-#### Learnings
+-#### Learnings
 - Key insights, techniques, or concepts explored.
 > I learned that game depth comes from the different decisions players can make, while complexity involves the rules and mechanics players need to understand. In Zuma, choosing where to shoot and swapping colors showed me how those opportunities give the player a chance to use strategy. 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 >  I am considering changing my Road Race digital game into an online board game where the players can roll dice and move their cars. I want to keep different routes and colored spaces from my physical prototype. I also want to explore the rest of the changes ill be implementing, I had a different idea on how I originally wanted the game to go but to keep it similar to my physical prototype there are some changes that will need to be done.
-#### Next Steps
+
+
+-#### Next Steps
 
 - Finalize my digital Road Race game concept.
 - Plan the layout of the digital board
